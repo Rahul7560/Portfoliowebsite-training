@@ -19,7 +19,7 @@
         <div class ="navbar_button">
 
         <a href="index.php"> <Button  >Home</Button>
-                <a href="#"> <Button >Resume</Button>
+                <a href="resume.php"> <Button >Resume</Button>
                 <a href="project.php"> <Button  >Project</Button>
                 </a>
                 <a href="#"> <Button  >Contact</Button> </a>

@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+/* font-family: 'Kumbh Sans', sans-serif; */
+
+
+.resumeMainFirst{
+    display: flex;
+
+
+}
+.resumemain{
+    margin-top:50px;
+    margin-left:200px;
+    margin-right:200px;
+
+}
+.skills{
+    margin-left: 50px;
+}
+.resumemain > h1{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 60px;
+    color: brown;
+    margin-bottom:30px;
+
+}
+
+.proffesional > div > hr{
+    height: 3px;
+    background-color: black;
+    margin-bottom: 30px;
+}
+.proffesional > div >h3{
+    font-size: 30px;
+    
+    font-family: 'Kumbh Sans', sans-serif;
+    margin-bottom: 20px;
+
+
+
+}
+.proffesional > div >p{
+    font-size: 18px;
+    
+    font-family: 'Kumbh Sans', sans-serif;
+    margin-bottom: 20px;
+
+
+
+}
+.skills > h3{
+    font-size: 30px;
+    font-family: 'Kumbh Sans', sans-serif;
+    margin-bottom: 10px;
+
+
+}
+.skills > hr{
+    height: 3px;
+    background-color: black;
+    margin-bottom: 10px;
+
+}
+p{
+    font-size: 18px;
+    
+    font-family: 'Kumbh Sans', sans-serif;
+    margin-bottom: 20px;
+}
+
